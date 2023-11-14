@@ -1,1 +1,1 @@
-# aajonus_project
+# Aajonus NLP Project
