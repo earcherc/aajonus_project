@@ -1,8 +1,5 @@
-/venv
 .DS_Store
 /.ipynb_checkpoints
-/aajonus_data
+/venv
 /aajonus_joblibs
 /aajonus_saved_dfs
-/aajonus_test_sets
-/aajonus_evaluations

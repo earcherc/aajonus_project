@@ -1,0 +1,35 @@
+Query,Precision,Recall,F1-Score
+Child genius,0.75,1.0,0.8571428571428571
+What's the ideal diet routine?,0.25,1.0,0.4
+Fastest way to get fat,0.2,1.0,0.33333333333333337
+How to gain weight,0.4,1.0,0.5714285714285715
+Milkshake vs lubricator for gaining weight,0.6,1.0,0.7499999999999999
+Milkshake recipe,0.2,1.0,0.33333333333333337
+Lubricator for gaining weight,0.0,0.0,0.0
+How much fat to have a day,0.2,1.0,0.33333333333333337
+Best juicer,0.6,1.0,0.7499999999999999
+raw fish containing natural mercury,1.0,0.3333333333333333,0.5
+amalgam fillings,0.8,1.0,0.888888888888889
+removing amalgam fillings,0.2,1.0,0.33333333333333337
+removing fillings,0.6,1.0,0.7499999999999999
+Singing to exhaust hormones,0.5,1.0,0.6666666666666666
+Activity rings,1.0,1.0,1.0
+Working long hours,0.4,1.0,0.5714285714285715
+Posture,0.0,0.0,0.0
+Germ theory,0.8,1.0,0.888888888888889
+Recipes,0.6,1.0,0.7499999999999999
+Heavy cream,0.0,0.0,0.0
+Vaccine effects,0.6,1.0,0.7499999999999999
+Vaccine effectiveness,0.0,0.0,0.0
+Yoga poses,0.0,0.0,0.0
+Ergonmic chair,0.2,1.0,0.33333333333333337
+Tempearature for hot baths,0.0,0.0,0.0
+Temperature for hot baths,0.25,1.0,0.4
+Cheese trains,0.6,1.0,0.7499999999999999
+Cheese and honey,1.0,1.0,1.0
+Refrigerated eggs,1.0,1.0,1.0
+Pasterisation,0.0,0.0,0.0
+Pasteurization,1.0,1.0,1.0
+Hoax,0.75,0.75,0.75
+Pandemic,1.0,1.0,1.0
+% vegetable juice,0.0,0.0,0.0
