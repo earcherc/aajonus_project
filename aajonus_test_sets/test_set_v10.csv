@@ -1,0 +1,210 @@
+Query,Result,Cosine,Relevance Score,Filename,Date,Max DF,Min DF,Ngram Range
+Is salt unhealthy,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.826237,0.5,0.01,"(2, 3)"
+Is salt unhealthy,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.826344,0.5,0.01,"(2, 3)"
+Is salt unhealthy,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.826430,0.5,0.01,"(2, 3)"
+Salt damages cells,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.842654,0.5,0.01,"(2, 3)"
+Salt damages cells,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.842817,0.5,0.01,"(2, 3)"
+Salt damages cells,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.842937,0.5,0.01,"(2, 3)"
+Why is salt toxic,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.859604,0.5,0.01,"(2, 3)"
+Why is salt toxic,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.859724,0.5,0.01,"(2, 3)"
+Why is salt toxic,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.859803,0.5,0.01,"(2, 3)"
+What are signs of intelligence,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.876895,0.5,0.01,"(2, 3)"
+What are signs of intelligence,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.877055,0.5,0.01,"(2, 3)"
+What are signs of intelligence,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.877167,0.5,0.01,"(2, 3)"
+Memory and intelligence,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.892494,0.5,0.01,"(2, 3)"
+Memory and intelligence,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.892580,0.5,0.01,"(2, 3)"
+Memory and intelligence,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.892649,0.5,0.01,"(2, 3)"
+How to gain weight quickly ,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.904889,0.5,0.01,"(2, 3)"
+How to gain weight quickly ,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.904976,0.5,0.01,"(2, 3)"
+How to gain weight quickly ,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.905046,0.5,0.01,"(2, 3)"
+What is vanilla used for,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.917543,0.5,0.01,"(2, 3)"
+What is vanilla used for,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.917633,0.5,0.01,"(2, 3)"
+What is vanilla used for,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.917703,0.5,0.01,"(2, 3)"
+Mercury naturally occurring in fish,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.930316,0.5,0.01,"(2, 3)"
+Mercury naturally occurring in fish,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.930405,0.5,0.01,"(2, 3)"
+Mercury naturally occurring in fish,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.930476,0.5,0.01,"(2, 3)"
+Heavy metals in fish,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.942813,0.5,0.01,"(2, 3)"
+Heavy metals in fish,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.942900,0.5,0.01,"(2, 3)"
+Heavy metals in fish,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.942970,0.5,0.01,"(2, 3)"
+How does refrigeration affect food,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.955776,0.5,0.01,"(2, 3)"
+How does refrigeration affect food,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.955864,0.5,0.01,"(2, 3)"
+How does refrigeration affect food,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.955934,0.5,0.01,"(2, 3)"
+What temperatures damage different foods,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.968421,0.5,0.01,"(2, 3)"
+What temperatures damage different foods,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.968514,0.5,0.01,"(2, 3)"
+What temperatures damage different foods,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.968583,0.5,0.01,"(2, 3)"
+Hot bath temperatures,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.983948,0.5,0.01,"(2, 3)"
+Hot bath temperatures,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.984043,0.5,0.01,"(2, 3)"
+Hot bath temperatures,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.984114,0.5,0.01,"(2, 3)"
+Why are saunas unhealthy,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.999451,0.5,0.01,"(2, 3)"
+Why are saunas unhealthy,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:53.999539,0.5,0.01,"(2, 3)"
+Why are saunas unhealthy,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:53.999609,0.5,0.01,"(2, 3)"
+Why drinking water is unhealthy,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.012839,0.5,0.01,"(2, 3)"
+Why drinking water is unhealthy,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.012986,0.5,0.01,"(2, 3)"
+Why drinking water is unhealthy,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.013162,0.5,0.01,"(2, 3)"
+What is the best food,"Why were they vibrant, healthy and disease-free
+if microbes are the culprits?",1.0,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 11:41:54.026874,0.5,0.01,"(2, 3)"
+What is the best food,"Now this is the mindset that
+since has basically put people into.",1.0,0,"Q&A_Of_January_24,_1999.txt",2023-11-29 11:41:54.026961,0.5,0.01,"(2, 3)"
+What is the best food,How is the pH going alkaline.,1.0,0,"Q&A_Of_September_10,_2006.txt",2023-11-29 11:41:54.027030,0.5,0.01,"(2, 3)"
+Germans and French eating more raw food than other nations,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.039821,0.5,0.01,"(2, 3)"
+Germans and French eating more raw food than other nations,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.039908,0.5,0.01,"(2, 3)"
+Germans and French eating more raw food than other nations,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.039976,0.5,0.01,"(2, 3)"
+Germany eats more raw food,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.052700,0.5,0.01,"(2, 3)"
+Germany eats more raw food,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.052785,0.5,0.01,"(2, 3)"
+Germany eats more raw food,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.052852,0.5,0.01,"(2, 3)"
+What does high meat do to the body,The blood mainly transports oxygen to the body.,1.0000000000000002,0,"Q&A_Of_November_17,_2000.txt",2023-11-29 11:41:54.065841,0.5,0.01,"(2, 3)"
+What does high meat do to the body,"Now the blood is transporting nutrients as well as oxygen
+to the body.",1.0000000000000002,0,"Primal_Diet_Workshop_+_Q&A_Of_June_22,_2013.txt",2023-11-29 11:41:54.065929,0.5,0.01,"(2, 3)"
+What does high meat do to the body,It adds red blood cells to the blood to thicken the blood and heat the body.,1.0000000000000002,0,We_Want_To_Live.txt,2023-11-29 11:41:54.065998,0.5,0.01,"(2, 3)"
+How to make kefir,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.080557,0.5,0.01,"(2, 3)"
+How to make kefir,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.080684,0.5,0.01,"(2, 3)"
+How to make kefir,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.080758,0.5,0.01,"(2, 3)"
+Why we don’t need to be afraid of bacteria,The brain doesn't like to be hot.,1.0,0,"Q&A_Of_February_3,_2013.txt",2023-11-29 11:41:54.095037,0.5,0.01,"(2, 3)"
+Why we don’t need to be afraid of bacteria,"It
+doesn’t take much to spur the acidophilus to be more active – probably
+a tsp.",1.0,0,"Q&A_Of_May_27,_2012.txt",2023-11-29 11:41:54.095125,0.5,0.01,"(2, 3)"
+Why we don’t need to be afraid of bacteria,"I will try to be clearer for those who did and do not
+understand.",1.0,0,"H1N1_(Swine)_Flu_Epidemic,_Fact_or_Hoax?.txt",2023-11-29 11:41:54.095193,0.5,0.01,"(2, 3)"
+Cleaning formula,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.107739,0.5,0.01,"(2, 3)"
+Cleaning formula,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.107826,0.5,0.01,"(2, 3)"
+Cleaning formula,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.107895,0.5,0.01,"(2, 3)"
+What to wash dishes with,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.120407,0.5,0.01,"(2, 3)"
+What to wash dishes with,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.120490,0.5,0.01,"(2, 3)"
+What to wash dishes with,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.120556,0.5,0.01,"(2, 3)"
+Best juicer brands,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.133021,0.5,0.01,"(2, 3)"
+Best juicer brands,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.133106,0.5,0.01,"(2, 3)"
+Best juicer brands,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.133175,0.5,0.01,"(2, 3)"
+Best yoga poses,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.145384,0.5,0.01,"(2, 3)"
+Best yoga poses,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.145469,0.5,0.01,"(2, 3)"
+Best yoga poses,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.145538,0.5,0.01,"(2, 3)"
+Does the lubrication formula need to be heated,You would have needed that first layer to be accurate.,1.0,0,Question_And_Answers.txt,2023-11-29 11:41:54.158300,0.5,0.01,"(2, 3)"
+Does the lubrication formula need to be heated,"The author and publisher shall have neither liability or responsibility to any person or entity with respect to any loss, damage or injury caused, or alleged to be caused, directly or indirectly by the information contained in this book.",1.0,0,We_Want_To_Live.txt,2023-11-29 11:41:54.158385,0.5,0.01,"(2, 3)"
+Does the lubrication formula need to be heated,Protein allows the fats to be utilized properly.,1.0,0,"Q&A_Of_August_17,_2003.txt",2023-11-29 11:41:54.158454,0.5,0.01,"(2, 3)"
+Are lemon and lime the same,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.170859,0.5,0.01,"(2, 3)"
+Are lemon and lime the same,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.170941,0.5,0.01,"(2, 3)"
+Are lemon and lime the same,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.171007,0.5,0.01,"(2, 3)"
+Eating meat with sauces or plain,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.182995,0.5,0.01,"(2, 3)"
+Eating meat with sauces or plain,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.183070,0.5,0.01,"(2, 3)"
+Eating meat with sauces or plain,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.183135,0.5,0.01,"(2, 3)"
+Are amalgam fillings unhealthy,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.194638,0.5,0.01,"(2, 3)"
+Are amalgam fillings unhealthy,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.194712,0.5,0.01,"(2, 3)"
+Are amalgam fillings unhealthy,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.194775,0.5,0.01,"(2, 3)"
+Should I get amalgam fillings removed,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.206472,0.5,0.01,"(2, 3)"
+Should I get amalgam fillings removed,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.206549,0.5,0.01,"(2, 3)"
+Should I get amalgam fillings removed,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.206612,0.5,0.01,"(2, 3)"
+Excessive hormones and nut formula,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.218097,0.5,0.01,"(2, 3)"
+Excessive hormones and nut formula,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.218170,0.5,0.01,"(2, 3)"
+Excessive hormones and nut formula,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.218231,0.5,0.01,"(2, 3)"
+How to burn off excessive hormones,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.229369,0.5,0.01,"(2, 3)"
+How to burn off excessive hormones,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.229440,0.5,0.01,"(2, 3)"
+How to burn off excessive hormones,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.229499,0.5,0.01,"(2, 3)"
+Vegetable juice recipe,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.239313,0.5,0.01,"(2, 3)"
+Vegetable juice recipe,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.239375,0.5,0.01,"(2, 3)"
+Vegetable juice recipe,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.239428,0.5,0.01,"(2, 3)"
+what % of each vegetable is the juice made of,"Why were they vibrant, healthy and disease-free
+if microbes are the culprits?",1.0,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 11:41:54.249364,0.5,0.01,"(2, 3)"
+what % of each vegetable is the juice made of,"Now this is the mindset that
+since has basically put people into.",1.0,0,"Q&A_Of_January_24,_1999.txt",2023-11-29 11:41:54.249426,0.5,0.01,"(2, 3)"
+what % of each vegetable is the juice made of,How is the pH going alkaline.,1.0,0,"Q&A_Of_September_10,_2006.txt",2023-11-29 11:41:54.249478,0.5,0.01,"(2, 3)"
+How important is vegetable juice,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.259057,0.5,0.01,"(2, 3)"
+How important is vegetable juice,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.259118,0.5,0.01,"(2, 3)"
+How important is vegetable juice,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.259170,0.5,0.01,"(2, 3)"
+What does becoming acidic feel like,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.268650,0.5,0.01,"(2, 3)"
+What does becoming acidic feel like,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.268712,0.5,0.01,"(2, 3)"
+What does becoming acidic feel like,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.268764,0.5,0.01,"(2, 3)"
+Why eat cheese with honey,"[Attendee]
+
+Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.278278,0.5,0.01,"(2, 3)"
+Why eat cheese with honey,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 11:41:54.278339,0.5,0.01,"(2, 3)"
+Why eat cheese with honey,"A: You can have everything in the world, but if you don't have your
+health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 11:41:54.278392,0.5,0.01,"(2, 3)"
