@@ -1,0 +1,149 @@
+Query,Result,Cosine,Relevance Score,Filename,Date,Max DF,Min DF,Ngram Range
+Is salt unhealthy,A: Salt is salt.,0.3756621784495296,0,"Q&A_Of_September_26,_2010.txt",2023-11-28 17:59:24.535644,0.9,0.0,"(1, 3)"
+Is salt unhealthy,So it's salt?,0.3846539965664473,0,"Q&A_Of_August_17,_2003_(Full).txt",2023-11-28 17:59:24.535750,0.9,0.0,"(1, 3)"
+Is salt unhealthy,It's salt.,0.44611764145230043,0,"Q&A_Of_August_17,_2003_(Full).txt",2023-11-28 17:59:24.535835,0.9,0.0,"(1, 3)"
+Salt damages cells,Eating raw meat helps heal and replace damaged cells.,0.2436907401545797,0,We_Want_To_Live.txt,2023-11-28 17:59:24.754140,0.9,0.0,"(1, 3)"
+Salt damages cells,"That is carbohydrate damage, a sugar damage cell.",0.29022584444525834,0,"Q&A_Of_June_22,_2003.txt",2023-11-28 17:59:24.754249,0.9,0.0,"(1, 3)"
+Salt damages cells,A: It's the chemicals damaging cells.,0.3103472845789468,0,"Q&A_Of_February_1,_2004.txt",2023-11-28 17:59:24.754338,0.9,0.0,"(1, 3)"
+Why is salt toxic,A: Salt is salt.,0.3402628682605608,0,"Q&A_Of_September_26,_2010.txt",2023-11-28 17:59:24.973618,0.9,0.0,"(1, 3)"
+Why is salt toxic,So it's salt?,0.3484073714840886,0,"Q&A_Of_August_17,_2003_(Full).txt",2023-11-28 17:59:24.973718,0.9,0.0,"(1, 3)"
+Why is salt toxic,It's salt.,0.404079188617574,0,"Q&A_Of_August_17,_2003_(Full).txt",2023-11-28 17:59:24.973801,0.9,0.0,"(1, 3)"
+What are signs of intelligence,You do not have any signs of it.,0.18810385632978538,0,"Q&A_Of_January_22,_2000.txt",2023-11-28 17:59:25.176015,0.9,0.0,"(1, 3)"
+What are signs of intelligence,"Cynicism is not a sign of
+intelligence.",0.2510988372379245,0,"Q&A_Of_November_7,_1999.txt",2023-11-28 17:59:25.176114,0.9,0.0,"(1, 3)"
+What are signs of intelligence,"Also, is sign of collecting lactic acid in the muscles.",0.3580330246142132,0,"Q&A_Of_April_6,_2008.txt",2023-11-28 17:59:25.176197,0.9,0.0,"(1, 3)"
+Memory and intelligence,It relaxed my memories and guilt.,0.22545578533412758,0,We_Want_To_Live.txt,2023-11-28 17:59:25.380138,0.9,0.0,"(1, 3)"
+Memory and intelligence,All animal tissue has parasite memory memory and eggs in it.,0.25310308781785584,0,Primal_Diet_Workshop_(Part_3).txt,2023-11-28 17:59:25.380225,0.9,0.0,"(1, 3)"
+Memory and intelligence,"Dietary patterns and intelligence
+in early and middle childhood,"" Intelligence.",0.2595971313599297,0,"Eating_Out,_Is_It_Safe?.txt",2023-11-28 17:59:25.380293,0.9,0.0,"(1, 3)"
+How to gain weight quickly ,Are you able to gain weight?,0.3164350750470327,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-28 17:59:25.592921,0.9,0.0,"(1, 3)"
+How to gain weight quickly ,Cooked eggs you can gain weight quickly.,0.39023021265495633,0,"Q&A_Of_April_16,_2006.txt",2023-11-28 17:59:25.593008,0.9,0.0,"(1, 3)"
+How to gain weight quickly ,Q: How to gain weight.,0.5926471994772652,0,"Q&A_Of_July_10,_2011.txt",2023-11-28 17:59:25.593077,0.9,0.0,"(1, 3)"
+What is vanilla used for,What was it.,0.21247522853357792,0,"Q&A_Of_November_14,_2004.txt",2023-11-28 17:59:25.803141,0.9,0.0,"(1, 3)"
+What is vanilla used for,That's what you use for your bath.,0.2153675508559619,0,Primal_Diet_Workshop_(Part_3).txt,2023-11-28 17:59:25.803251,0.9,0.0,"(1, 3)"
+What is vanilla used for,What's what's going on.,0.2375054392789258,0,"Q&A_Of_April_11,_2004.txt",2023-11-28 17:59:25.803337,0.9,0.0,"(1, 3)"
+Mercury naturally occurring in fish,"Processing and cooking destroy the
+naturally occurring flavor-nutrients in food.",0.15280318842087395,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-28 17:59:26.038473,0.9,0.0,"(1, 3)"
+Mercury naturally occurring in fish,"Naturally occurring E.coli are never
+disease-causing.",0.17756504225604103,0,More_Clarity_On_Food-borne_Bacterial_Contamination.txt,2023-11-28 17:59:26.038575,0.9,0.0,"(1, 3)"
+Mercury naturally occurring in fish,"However,
+approximately 600 DBPs have been identified since 1974 because of the
+combining of chlorine with substances that naturally occur in waters.",0.21780604457432948,0,How_Toxic_is_Our_Civilized_World?.txt,2023-11-28 17:59:26.038657,0.9,0.0,"(1, 3)"
+Heavy metals in fish,Heavy metals.,0.3679761158828171,0,"Q&A_Of_April_4,_2010.txt",2023-11-28 17:59:26.247817,0.9,0.0,"(1, 3)"
+Heavy metals in fish,"If your man has heavy metals in the prostate gland or in the testes, you're gonna get heavy metals in that sperm.",0.37538252490432056,0,"Q&A_Of_November_26,_2006.txt",2023-11-28 17:59:26.247918,0.9,0.0,"(1, 3)"
+Heavy metals in fish,Especially with heavy metals in their system.,0.38451017582467995,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-28 17:59:26.247999,0.9,0.0,"(1, 3)"
+How does refrigeration affect food,How do they do it.,0.16748872117913463,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-28 17:59:26.480765,0.9,0.0,"(1, 3)"
+How does refrigeration affect food,"The Recipe for Living Without Disease
+
+What does refrigeration do?",0.21927589693246846,0,Benefits_of_Raw_Eggs.txt,2023-11-28 17:59:26.480882,0.9,0.0,"(1, 3)"
+How does refrigeration affect food,So what does refrigeration do?,0.3011586905409703,0,"Q&A_Of_November_7,_1999.txt",2023-11-28 17:59:26.480968,0.9,0.0,"(1, 3)"
+What temperatures damage different foods,"[Attendee]
+
+What temperature should it be.",0.2374875061287148,0,"Q&A_Of_May_7,_2006.txt",2023-11-28 17:59:26.721141,0.9,0.0,"(1, 3)"
+What temperatures damage different foods,G: What temperature?,0.33712162736105655,0,"Q&A_Of_May_29,_2011.txt",2023-11-28 17:59:26.721244,0.9,0.0,"(1, 3)"
+What temperatures damage different foods,G: What temperature?,0.33712162736105655,0,"Q&A_Of_October_14,_2012.txt",2023-11-28 17:59:26.721327,0.9,0.0,"(1, 3)"
+Hot bath temperatures,Hot baths.,0.4181633097181713,0,"Q&A_Of_February_22,_2009.txt",2023-11-28 17:59:26.950743,0.9,0.0,"(1, 3)"
+Hot bath temperatures,Hot baths.,0.4181633097181713,0,Beneficial_Home_Baths.txt,2023-11-28 17:59:26.950844,0.9,0.0,"(1, 3)"
+Hot bath temperatures,Q: Bath temperature?,0.42610510223214215,0,"Q&A_Of_March_26,_2013.txt",2023-11-28 17:59:26.950925,0.9,0.0,"(1, 3)"
+Why are saunas unhealthy,Why is that.,0.32976512721956186,0,"Q&A_Of_April_6,_2008.txt",2023-11-28 17:59:27.162773,0.9,0.0,"(1, 3)"
+Why are saunas unhealthy,Why is that.,0.32976512721956186,0,"Q&A_Of_July_24,_2005.txt",2023-11-28 17:59:27.162874,0.9,0.0,"(1, 3)"
+Why are saunas unhealthy,Why is that.,0.32976512721956186,0,"Q&A_Of_April_17,_2005.txt",2023-11-28 17:59:27.162955,0.9,0.0,"(1, 3)"
+Why drinking water is unhealthy,I don't drink water.,0.18973615588326612,0,"Q&A_Of_February_3,_2013.txt",2023-11-28 17:59:27.374910,0.9,0.0,"(1, 3)"
+Why drinking water is unhealthy,"The only times they
+drink water is when you feed them dehydrated garbage food.",0.22099210874006414,0,"Q&A_Of_February_3,_2013.txt",2023-11-28 17:59:27.375010,0.9,0.0,"(1, 3)"
+Why drinking water is unhealthy,Drinking water.,0.28397466157189655,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-28 17:59:27.375091,0.9,0.0,"(1, 3)"
+What is the best food,"So I'm asking for
+him, what would be the best food.",0.38253828867809514,0,"Q&A_Of_February_3,_2013.txt",2023-11-28 17:59:27.583726,0.9,0.0,"(1, 3)"
+What is the best food,"So, what are the best foods and –
+
+A: Dizziness doesn’t come from that.",0.4080501524770964,0,"Q&A_Of_October_14,_2012.txt",2023-11-28 17:59:27.583822,0.9,0.0,"(1, 3)"
+What is the best food,What is the best food / drink for me right now?,0.4686959474203343,0,Question_And_Answers.txt,2023-11-28 17:59:27.583901,0.9,0.0,"(1, 3)"
+Germans and French eating more raw food than other nations,Ate more.,0.1625141926748983,0,"Q&A_Of_June_16,_2013.txt",2023-11-28 17:59:27.804170,0.9,0.0,"(1, 3)"
+Germans and French eating more raw food than other nations,"Therefore, some people are more sensitive to and ill-affected by cooked foods than others.",0.18618429754343754,0,We_Want_To_Live.txt,2023-11-28 17:59:27.804270,0.9,0.0,"(1, 3)"
+Germans and French eating more raw food than other nations,"Okay, so just add some good sport drinks
+to your activity – and eat more raw foods of course.",0.2009692951601012,0,"Q&A_Of_July_10,_2011.txt",2023-11-28 17:59:27.804350,0.9,0.0,"(1, 3)"
+Germany eats more raw food,"But if you're eating
+more raw foods then you won't need so much fluid.",0.24749496349433303,0,"Q&A_Of_November_7,_1999.txt",2023-11-28 17:59:28.010992,0.9,0.0,"(1, 3)"
+Germany eats more raw food,Ate more.,0.2487652719408881,0,"Q&A_Of_June_16,_2013.txt",2023-11-28 17:59:28.011093,0.9,0.0,"(1, 3)"
+Germany eats more raw food,"Okay, so just add some good sport drinks
+to your activity – and eat more raw foods of course.",0.3048908910350071,0,"Q&A_Of_July_10,_2011.txt",2023-11-28 17:59:28.011175,0.9,0.0,"(1, 3)"
+What does high meat do to the body,"I've got people who only do high meat, only do high
+eggs.",0.26416433374252724,0,Benefits_of_Raw_Eggs.txt,2023-11-28 17:59:28.216895,0.9,0.0,"(1, 3)"
+What does high meat do to the body,"I've got people who only do high meat,
+only do high eggs.",0.2661459356803629,0,"Q&A_Of_May_26,_2013.txt",2023-11-28 17:59:28.216989,0.9,0.0,"(1, 3)"
+What does high meat do to the body,Q: Can high meat do any of that?,0.27072688032991293,0,"Q&A_Of_December_14,_2008.txt",2023-11-28 17:59:28.217065,0.9,0.0,"(1, 3)"
+How to make kefir,"[Attendee]
+
+How do you make kefir.",0.24347736782030432,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-28 17:59:28.441370,0.9,0.0,"(1, 3)"
+How to make kefir,G: How do you make kefir?,0.2544460329796217,0,"Q&A_Of_March_26,_2000.txt",2023-11-28 17:59:28.441472,0.9,0.0,"(1, 3)"
+How to make kefir,Q: How to make kefir?,0.7192194321136137,0,"Q&A_Of_September_9,_2007.txt",2023-11-28 17:59:28.441555,0.9,0.0,"(1, 3)"
+Why we don’t need to be afraid of bacteria,Why should we be afraid of bacteria?,0.3936118590875543,0,"Q&A_Of_October_24,_2010.txt",2023-11-28 17:59:28.698740,0.9,0.0,"(1, 3)"
+Why we don’t need to be afraid of bacteria,Afraid of bacteria.,0.42630685961884524,0,"Q&A_Of_May_7,_2006.txt",2023-11-28 17:59:28.698849,0.9,0.0,"(1, 3)"
+Why we don’t need to be afraid of bacteria,Because they want you to be afraid of bacteria.,0.46468333891412406,0,"Q&A_Of_June_16,_2013.txt",2023-11-28 17:59:28.698932,0.9,0.0,"(1, 3)"
+Cleaning formula,"Papaya helps clean the back, helps clean it.",0.19084859517373967,0,"Q&A_Of_February_22,_2009.txt",2023-11-28 17:59:28.927397,0.9,0.0,"(1, 3)"
+Cleaning formula,It's not cleaned.,0.1954012278831274,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-28 17:59:28.927496,0.9,0.0,"(1, 3)"
+Cleaning formula,in the formulas.,0.19871896516816487,0,Question_And_Answers.txt,2023-11-28 17:59:28.927577,0.9,0.0,"(1, 3)"
+What to wash dishes with,I want to wash it off.,0.23014047473859017,0,Question_And_Answers.txt,2023-11-28 17:59:29.154004,0.9,0.0,"(1, 3)"
+What to wash dishes with,Top dish with grated cheese.,0.27089993247128746,0,Benefits_of_Raw_Eggs.txt,2023-11-28 17:59:29.154099,0.9,0.0,"(1, 3)"
+What to wash dishes with,Top dish with grated cheese.,0.27089993247128746,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-28 17:59:29.154176,0.9,0.0,"(1, 3)"
+Best juicer brands,"If you want example of that, even the good juicers like, a green star juicer or any of the green gold juicers.",0.2696544380911506,0,"Q&A_Of_April_6,_2008.txt",2023-11-28 17:59:29.405861,0.9,0.0,"(1, 3)"
+Best juicer brands,"It's a lot of effort, I don't have a good juicer.",0.27995230532352616,0,"Q&A_Of_November_7,_1999.txt",2023-11-28 17:59:29.405961,0.9,0.0,"(1, 3)"
+Best juicer brands,"So the juicer, this is a good juicer.",0.39096456616170727,0,Primal_Diet_Workshop_(Part_3).txt,2023-11-28 17:59:29.406041,0.9,0.0,"(1, 3)"
+Best yoga poses,Good.,0.18258137196292312,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-28 17:59:29.639101,0.9,0.0,"(1, 3)"
+Best yoga poses,Good.,0.18258137196292312,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-28 17:59:29.639202,0.9,0.0,"(1, 3)"
+Best yoga poses,Good.,0.18258137196292312,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-28 17:59:29.639285,0.9,0.0,"(1, 3)"
+Does the lubrication formula need to be heated,The lubrication formula in the recipe book.,0.3551666019420012,0,"Q&A_Of_April_17,_2005.txt",2023-11-28 17:59:29.886644,0.9,0.0,"(1, 3)"
+Does the lubrication formula need to be heated,Q: Not the lubrication formula?,0.36392781849334693,0,"Q&A_Of_November_27,_2005.txt",2023-11-28 17:59:29.886741,0.9,0.0,"(1, 3)"
+Does the lubrication formula need to be heated,The lubrication formula and fish.,0.3830534877699494,0,"Q&A_Of_April_6,_2008.txt",2023-11-28 17:59:29.886819,0.9,0.0,"(1, 3)"
+Are lemon and lime the same,Question: is it a combination of lemon and lime juice together?,0.31298336666831233,0,"Primal_Diet_Workshop_+_Q&A_Of_June_22,_2013.txt",2023-11-28 17:59:30.093191,0.9,0.0,"(1, 3)"
+Are lemon and lime the same,"Lemon and lime are
+antibacterial, especially lime.",0.36105942745617753,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-28 17:59:30.093286,0.9,0.0,"(1, 3)"
+Are lemon and lime the same,Aajonus: Lemon and lime together.,0.40369201605699945,0,"Primal_Diet_Workshop_+_Q&A_Of_June_22,_2013.txt",2023-11-28 17:59:30.093362,0.9,0.0,"(1, 3)"
+Eating meat with sauces or plain,The honey's already bound with the fat in that sauce or in the meat meal.,0.13862564515934256,0,"Q&A_Of_November_26,_2006.txt",2023-11-28 17:59:30.292554,0.9,0.0,"(1, 3)"
+Eating meat with sauces or plain,"He quit eating the milkshakes and
+Moisturizing Formulas around about March and would only eat meat with butter.",0.1570741322298621,0,Question_And_Answers.txt,2023-11-28 17:59:30.292654,0.9,0.0,"(1, 3)"
+Eating meat with sauces or plain,"ALTERNATIVE 1: Rather than blenderize basil into sauce,
+cover meat with sauce and top with sprinkled basil.",0.21777736071928333,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-28 17:59:30.292734,0.9,0.0,"(1, 3)"
+Are amalgam fillings unhealthy,"The vapor will crystal, say like you had mercury fillings, amalgam fillings.",0.2838149483689334,0,"Q&A_Of_April_14,_2002.txt",2023-11-28 17:59:30.494742,0.9,0.0,"(1, 3)"
+Are amalgam fillings unhealthy,"It's in mouths within
+amalgam fillings.",0.323839839305342,0,How_Toxic_is_Our_Civilized_World?.txt,2023-11-28 17:59:30.494836,0.9,0.0,"(1, 3)"
+Are amalgam fillings unhealthy,Q: What about mercury amalgam fillings?,0.35493765146703105,0,"Q&A_Of_September_13,_2009.txt",2023-11-28 17:59:30.494913,0.9,0.0,"(1, 3)"
+Should I get amalgam fillings removed,"It's in mouths within
+amalgam fillings.",0.21869148441268882,0,How_Toxic_is_Our_Civilized_World?.txt,2023-11-28 17:59:30.696913,0.9,0.0,"(1, 3)"
+Should I get amalgam fillings removed,Q: What about mercury amalgam fillings?,0.24289192749821295,0,"Q&A_Of_September_13,_2009.txt",2023-11-28 17:59:30.697021,0.9,0.0,"(1, 3)"
+Should I get amalgam fillings removed,Q: What should I get?,0.34209609457584605,0,"Q&A_Of_November_18,_2007.txt",2023-11-28 17:59:30.697097,0.9,0.0,"(1, 3)"
+Excessive hormones and nut formula,"Eating a raw-food diet with plenty of raw meats, especially fish, fresh raw fruit and Nut Formula strengthens mental functions.",0.20230695272966842,0,We_Want_To_Live.txt,2023-11-28 17:59:30.894947,0.9,0.0,"(1, 3)"
+Excessive hormones and nut formula,"See Cooked Starch, page 183, and Nut Formula, page 194.",0.24846105755801182,0,We_Want_To_Live.txt,2023-11-28 17:59:30.895029,0.9,0.0,"(1, 3)"
+Excessive hormones and nut formula,"A: Yeah, nut formula
+
+Q: Yeah, those two things, cream and nut formula, I love to consume them.",0.2747630185544605,0,"Q&A_Of_February_1,_2004.txt",2023-11-28 17:59:30.895093,0.9,0.0,"(1, 3)"
+How to burn off excessive hormones,What is burned off in gas?,0.1848394417512206,0,"Q&A_Of_May_29,_2011.txt",2023-11-28 17:59:31.090912,0.9,0.0,"(1, 3)"
+How to burn off excessive hormones,"(34) Meat and Lub Forula For Weight Gain
+(35) Night Terrors
+[2005],[Attendee]
+
+Night terrors and she takes capsule for them, and I wanna know what you know about night terrors
+
+[Aajonus]
+
+Nightmares occur to burn off hormones that are not burned off during daytime?",0.1851817871018267,0,"Q&A_Of_September_12,_2005.txt",2023-11-28 17:59:31.091008,0.9,0.0,"(1, 3)"
+How to burn off excessive hormones,"Just
+enough to burn off the the body loaf...You can actually drink the water.",0.24663698538663661,0,"Q&A_Of_September_9,_2007.txt",2023-11-28 17:59:31.091085,0.9,0.0,"(1, 3)"
+Vegetable juice recipe,No vegetable juices.,0.2896527047434664,0,Benefits_of_Raw_Eggs.txt,2023-11-28 17:59:31.288249,0.9,0.0,"(1, 3)"
+Vegetable juice recipe,Green vegetable juice.,0.30876578240550817,0,"Q&A_Of_September_12,_2004.txt",2023-11-28 17:59:31.288346,0.9,0.0,"(1, 3)"
+Vegetable juice recipe,Vegetable juice.,0.4293870859995147,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-28 17:59:31.288425,0.9,0.0,"(1, 3)"
+what % of each vegetable is the juice made of,"All I craved
+was the juice.",0.20722307417079494,0,"Q&A_Of_March_26,_2000.txt",2023-11-28 17:59:31.496025,0.9,0.0,"(1, 3)"
+what % of each vegetable is the juice made of,of each.,0.21330962293532196,0,"Q&A_Of_May_29,_2011.txt",2023-11-28 17:59:31.496114,0.9,0.0,"(1, 3)"
+what % of each vegetable is the juice made of,[Attendee]   The healthiest vegetables are the worst.,0.2186574923379504,0,"Q&A_Of_March_17,_2002.txt",2023-11-28 17:59:31.496185,0.9,0.0,"(1, 3)"
+How important is vegetable juice,"G: And how important is it to have beef, chicken and fish every day?",0.2763917374309622,0,"Q&A_Of_March_26,_2000.txt",2023-11-28 17:59:31.692963,0.9,0.0,"(1, 3)"
+How important is vegetable juice,How important is a thyroid for a Buffalo.,0.35650589494308954,0,"Q&A_Of_February_20,_2005.txt",2023-11-28 17:59:31.693053,0.9,0.0,"(1, 3)"
+How important is vegetable juice,"How important is it to have
+high meat?",0.3923705831399799,0,"Q&A_Of_May_27,_2012.txt",2023-11-28 17:59:31.693125,0.9,0.0,"(1, 3)"
+What does becoming acidic feel like,Q: That's what it feels like.,0.19291054939852476,0,"Q&A_Of_February_3,_2013.txt",2023-11-28 17:59:31.886189,0.9,0.0,"(1, 3)"
+What does becoming acidic feel like,A: What does radiation feel like?,0.2352591151778969,0,"Q&A_Of_September_19,_2000_(Rare).txt",2023-11-28 17:59:31.886281,0.9,0.0,"(1, 3)"
+What does becoming acidic feel like,"A lot of people
+do become irritable.",0.24711615113743834,0,"Q&A_Of_November_27,_2005.txt",2023-11-28 17:59:31.886355,0.9,0.0,"(1, 3)"
+Why eat cheese with honey,You just need to eat cheese and cheese with honey.,0.3764726827875766,0,"Q&A_Of_February_25,_2007.txt",2023-11-28 17:59:32.078243,0.9,0.0,"(1, 3)"
+Why eat cheese with honey,Q: When he's eating cheese with honey what does it do?,0.3856458083136155,0,"Q&A_Of_May_26,_2013.txt",2023-11-28 17:59:32.078336,0.9,0.0,"(1, 3)"
+Why eat cheese with honey,"Well, you don't eat cheese with honey in the same mouth.",0.4125483236062458,0,"Q&A_Of_November_26,_2006.txt",2023-11-28 17:59:32.078411,0.9,0.0,"(1, 3)"

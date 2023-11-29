@@ -1,0 +1,37 @@
+Query,Precision,Recall,F1-Score
+Is salt unhealthy,0.0,0.0,0.0
+Salt damages cells,0.0,0.0,0.0
+Why is salt toxic,0.0,0.0,0.0
+What are signs of intelligence,0.5,1.0,0.6666666666666666
+Memory and intelligence,0.5,1.0,0.6666666666666666
+How to gain weight quickly ,0.6666666666666666,1.0,0.8
+What is vanilla used for,0.0,0.0,0.0
+Mercury naturally occurring in fish,0.0,0.0,0.0
+Heavy metals in fish,0.0,0.0,0.0
+How does refrigeration affect food,1.0,1.0,1.0
+What temperatures damage different foods,0.0,0.0,0.0
+Hot bath temperatures,0.0,0.0,0.0
+Why are saunas unhealthy,0.0,0.0,0.0
+Why drinking water is unhealthy,0.0,0.0,0.0
+What is the best food,0.3333333333333333,1.0,0.5
+Germans and French eating more raw food than other nations,0.0,0.0,0.0
+Germany eats more raw food,0.0,0.0,0.0
+What does high meat do to the body,0.3333333333333333,1.0,0.5
+How to make kefir,1.0,1.0,1.0
+Why we don’t need to be afraid of bacteria,0.6666666666666666,1.0,0.8
+Cleaning formula,0.0,0.0,0.0
+What to wash dishes with,0.0,0.0,0.0
+Best juicer brands,0.0,0.0,0.0
+Best yoga poses,0.0,0.0,0.0
+Does the lubrication formula need to be heated,0.0,0.0,0.0
+Are lemon and lime the same,0.3333333333333333,1.0,0.5
+Eating meat with sauces or plain,0.3333333333333333,1.0,0.5
+Are amalgam fillings unhealthy,0.3333333333333333,1.0,0.5
+Should I get amalgam fillings removed,0.0,0.0,0.0
+Excessive hormones and nut formula,0.3333333333333333,1.0,0.5
+How to burn off excessive hormones,0.0,0.0,0.0
+Vegetable juice recipe,0.3333333333333333,1.0,0.5
+what % of each vegetable is the juice made of,0.0,0.0,0.0
+How important is vegetable juice,0.6666666666666666,1.0,0.8
+What does becoming acidic feel like,0.0,0.0,0.0
+Why eat cheese with honey,0.3333333333333333,1.0,0.5
