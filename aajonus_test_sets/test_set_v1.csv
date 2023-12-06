@@ -1,124 +1,264 @@
-Query,Result,Cosine,Relevance Score,Filename,Date,Max DF,Min DF,Ngram Range
-Is salt unhealthy,Everything is processed.,1.0,0,"Q&A_Of_August_20,_2006.txt",2023-11-29 10:16:11.639581,0.5,0.01,"(1, 1)"
-Is salt unhealthy,Merck is lobbying.,1.0,0,"Q&A_Of_February_18,_2007.txt",2023-11-29 10:16:11.641516,0.5,0.01,"(1, 1)"
-Is salt unhealthy,Mine was chemotherapy.,1.0,0,"Q&A_Of_September_26,_2010.txt",2023-11-29 10:16:11.641753,0.5,0.01,"(1, 1)"
-Salt damages cells,Collecting dead cells.,1.0,0,"Q&A_Of_January_24,_1999.txt",2023-11-29 10:16:11.695068,0.5,0.01,"(1, 1)"
-Salt damages cells,Kills cells.,1.0,0,"Q&A_Of_November_18,_2007.txt",2023-11-29 10:16:11.695189,0.5,0.01,"(1, 1)"
-Salt damages cells,Dead cells.,1.0,0,"Q&A_Of_January_24,_1999.txt",2023-11-29 10:16:11.695293,0.5,0.01,"(1, 1)"
-Why is salt toxic,Everything else is toxic.,0.726073406819937,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 10:16:11.732551,0.5,0.01,"(1, 1)"
-Why is salt toxic,Rusts are toxic.,0.726073406819937,0,"Q&A_Of_September_10,_2006.txt",2023-11-29 10:16:11.732672,0.5,0.01,"(1, 1)"
-Why is salt toxic,G: Why is Trinity toxic?,0.7677130385339517,0,"Q&A_Of_November_17,_2000.txt",2023-11-29 10:16:11.732770,0.5,0.01,"(1, 1)"
-What are signs of intelligence,Pyruvate was what again.,0.8620035533418327,0,"Q&A_Of_February_25,_2007.txt",2023-11-29 10:16:11.769773,0.5,0.01,"(1, 1)"
-What are signs of intelligence,Anybody understand what maple syrup is.,0.8620035533418327,0,"Q&A_Of_July_24,_2005.txt",2023-11-29 10:16:11.769892,0.5,0.01,"(1, 1)"
-What are signs of intelligence,The articles below are examples of what might be occurring.,0.9093292847025466,0,Question_And_Answers.txt,2023-11-29 10:16:11.769990,0.5,0.01,"(1, 1)"
-Memory and intelligence,Consuming MMS concentrates chlorine and sodium.,1.0,0,Question_And_Answers.txt,2023-11-29 10:16:11.809143,0.5,0.01,"(1, 1)"
-Memory and intelligence,and herbalism.,1.0,0,Question_And_Answers.txt,2023-11-29 10:16:11.809355,0.5,0.01,"(1, 1)"
-Memory and intelligence,Men and women.,1.0,0,"Q&A_Of_August_22,_2011.txt",2023-11-29 10:16:11.809510,0.5,0.01,"(1, 1)"
-How to gain weight quickly ,How utterly disgraceful!,0.900204279699246,0,Question_And_Answers.txt,2023-11-29 10:16:11.842979,0.5,0.01,"(1, 1)"
-How to gain weight quickly ,How wonderful.,0.900204279699246,0,Question_And_Answers.txt,2023-11-29 10:16:11.843102,0.5,0.01,"(1, 1)"
-How to gain weight quickly ,Taught 'em how to chemtrail.,1.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 10:16:11.843202,0.5,0.01,"(1, 1)"
-What is vanilla used for,"However, using it for household use is beneficial.",0.7596319233053217,0,Question_And_Answers.txt,2023-11-29 10:16:11.880653,0.5,0.01,"(1, 1)"
-What is vanilla used for,What do they use iodine for?,0.7659939087059048,0,"Q&A_Of_August_22,_2011.txt",2023-11-29 10:16:11.880772,0.5,0.01,"(1, 1)"
-What is vanilla used for,That's what you use for your bath.,0.8117222436720457,0,Primal_Diet_Workshop_(Part_3).txt,2023-11-29 10:16:11.880872,0.5,0.01,"(1, 1)"
-Mercury naturally occurring in fish,Ten feet in diameter.,1.0,0,"Q&A_Of_February_3,_2013.txt",2023-11-29 10:16:11.912136,0.5,0.01,"(1, 1)"
-Mercury naturally occurring in fish,Stir in remaining ground lentils.,1.0,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:11.912256,0.5,0.01,"(1, 1)"
-Mercury naturally occurring in fish,Stir in onion.,1.0,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:11.912400,0.5,0.01,"(1, 1)"
-Heavy metals in fish,Ten feet in diameter.,1.0,0,"Q&A_Of_February_3,_2013.txt",2023-11-29 10:16:11.947097,0.5,0.01,"(1, 1)"
-Heavy metals in fish,Stir in remaining ground lentils.,1.0,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:11.947215,0.5,0.01,"(1, 1)"
-Heavy metals in fish,Stir in onion.,1.0,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:11.947309,0.5,0.01,"(1, 1)"
-How does refrigeration affect food,How do you increase.,0.7234841199314743,0,"Q&A_Of_March_18,_2012.txt",2023-11-29 10:16:11.980349,0.5,0.01,"(1, 1)"
-How does refrigeration affect food,"How do you
-have your food shipped?",0.7397456785751693,0,Question_And_Answers.txt,2023-11-29 10:16:11.980466,0.5,0.01,"(1, 1)"
-How does refrigeration affect food,"What is that exactly,
-how do cooked foods crate that, and how do raw foods resolve that?",0.7883271848927531,0,"Q&A_Of_March_11,_2012.txt",2023-11-29 10:16:11.980561,0.5,0.01,"(1, 1)"
-What temperatures damage different foods,Food Additives.,0.7400832982599389,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:12.009687,0.5,0.01,"(1, 1)"
-What temperatures damage different foods,What is food-safety?,0.7509093433981108,0,A_New_Theory_Of_Disease.txt,2023-11-29 10:16:12.009804,0.5,0.01,"(1, 1)"
-What temperatures damage different foods,What food?,0.8780836289329682,0,Question_And_Answers.txt,2023-11-29 10:16:12.009900,0.5,0.01,"(1, 1)"
-Hot bath temperatures,Hot baths.,1.0,0,"Q&A_Of_February_22,_2009.txt",2023-11-29 10:16:12.038842,0.5,0.01,"(1, 1)"
-Hot bath temperatures,Hot baths.,1.0,0,Beneficial_Home_Baths.txt,2023-11-29 10:16:12.038956,0.5,0.01,"(1, 1)"
-Hot bath temperatures,Happy hot tubbing!,1.0,0,Hot_Tub_Therapy.txt,2023-11-29 10:16:12.039050,0.5,0.01,"(1, 1)"
-Why are saunas unhealthy,Discover why below.,0.9486604587560633,0,Rawesome_Trial_Outcome.txt,2023-11-29 10:16:12.071746,0.5,0.01,"(1, 1)"
-Why are saunas unhealthy,Why.,0.9486604587560633,0,"Q&A_Of_September_12,_2004.txt",2023-11-29 10:16:12.071860,0.5,0.01,"(1, 1)"
-Why are saunas unhealthy,Why.,0.9486604587560633,0,"Q&A_Of_September_12,_2005.txt",2023-11-29 10:16:12.071951,0.5,0.01,"(1, 1)"
-Why drinking water is unhealthy,Drinking water.,0.7702984857877921,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-29 10:16:12.105045,0.5,0.01,"(1, 1)"
-Why drinking water is unhealthy,Drink water rarely.,0.7702984857877921,0,We_Want_To_Live.txt,2023-11-29 10:16:12.105155,0.5,0.01,"(1, 1)"
-Why drinking water is unhealthy,Why is Gerolsteiner one of the worst waters to drink?,0.8051692485582702,0,Question_And_Answers.txt,2023-11-29 10:16:12.105245,0.5,0.01,"(1, 1)"
-What is the best food,"So I'm asking for
-him, what would be the best food.",0.6974603293081054,0,"Q&A_Of_February_3,_2013.txt",2023-11-29 10:16:12.144121,0.5,0.01,"(1, 1)"
-What is the best food,What material is best?,0.7149774762039557,0,"Q&A_Of_January_9,_2011.txt",2023-11-29 10:16:12.144237,0.5,0.01,"(1, 1)"
-What is the best food,"What cures diabetes
-is good protein and baths.",0.7279550233227928,0,"Q&A_Of_August_22,_2011.txt",2023-11-29 10:16:12.144332,0.5,0.01,"(1, 1)"
-Germans and French eating more raw food than other nations,"Eating other raw foods, if desired, is fine.",0.6456337673093067,0,We_Want_To_Live.txt,2023-11-29 10:16:12.178927,0.5,0.01,"(1, 1)"
-Germans and French eating more raw food than other nations,Tetanus shots have more mercury and aluminum than any other vaccines.,0.6569348951851568,0,"Primal_Diet_Workshop_+_Q&A_Of_June_22,_2013.txt",2023-11-29 10:16:12.179037,0.5,0.01,"(1, 1)"
-Germans and French eating more raw food than other nations,"Most often, eating raw tomatoes and raw fat
-satisfies thirst and dryness, including dry mouth, better than
-other foods.",0.6718132326926451,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:12.179126,0.5,0.01,"(1, 1)"
-Germany eats more raw food,Ate more.,0.6968295953348422,0,"Q&A_Of_June_16,_2013.txt",2023-11-29 10:16:12.211125,0.5,0.01,"(1, 1)"
-Germany eats more raw food,Raw foods create advanced glycation end products.,0.7172367217770439,0,Primal_Diet_Workshop_(Part_1).txt,2023-11-29 10:16:12.211241,0.5,0.01,"(1, 1)"
-Germany eats more raw food,So eat raw foods.,0.7631284183825195,0,Primal_Diet_Workshop_(Part_2).txt,2023-11-29 10:16:12.211337,0.5,0.01,"(1, 1)"
-What does high meat do to the body,What does rain do.,0.6381540576556297,0,"Q&A_Of_September_14,_2003.txt",2023-11-29 10:16:12.247622,0.5,0.01,"(1, 1)"
-What does high meat do to the body,So that's what high meat can do for you!,0.6445844812707916,0,"Q&A_Of_April_4,_2010.txt",2023-11-29 10:16:12.247735,0.5,0.01,"(1, 1)"
-What does high meat do to the body,What does cucumber do for the body?,0.6623877578136308,0,Question_And_Answers.txt,2023-11-29 10:16:12.247828,0.5,0.01,"(1, 1)"
-How to make kefir,Taught 'em how to chemtrail.,0.7658743825880887,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 10:16:12.279114,0.5,0.01,"(1, 1)"
-How to make kefir,Q: How to make kefir?,0.7676583137696056,0,"Q&A_Of_September_9,_2007.txt",2023-11-29 10:16:12.279228,0.5,0.01,"(1, 1)"
-How to make kefir,That's how plastic is made.,0.7843750265561795,0,"Q&A_Of_January_29,_2006.txt",2023-11-29 10:16:12.279321,0.5,0.01,"(1, 1)"
-Why we don’t need to be afraid of bacteria,"We need that bacteria to
-regenerate, especially in the intestines.",0.6535800956725211,0,"Q&A_Of_September_19,_2000_(Rare).txt",2023-11-29 10:16:12.317588,0.5,0.01,"(1, 1)"
-Why we don’t need to be afraid of bacteria,Why should we be afraid of bacteria?,0.6653491002386329,0,"Q&A_Of_October_24,_2010.txt",2023-11-29 10:16:12.317699,0.5,0.01,"(1, 1)"
-Why we don’t need to be afraid of bacteria,We don't need rock.,0.6754150834266821,0,"Q&A_Of_June_16,_2013.txt",2023-11-29 10:16:12.317792,0.5,0.01,"(1, 1)"
-Cleaning formula,"[Attendee]
+Query,Result,Cosine,Filename,Date,Max DF,Min DF,Ngram Range
+Is salt unhealthy,Salt can do it.,0.41397911640390794,"Q&A_Of_December_14,_2008.txt",2023-12-06 09:54:44.793391,0.85,0.0,"(1, 1)"
+Is salt unhealthy,In an unhealthy body at a rate of 90%.,0.42222191755554217,"Q&A_Of_November_7,_1999.txt",2023-12-06 09:54:44.793546,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"It is
+unhealthy to breath plastic lint.",0.43393609857856974,Question_And_Answers.txt,2023-12-06 09:54:44.793658,0.85,0.0,"(1, 1)"
+Is salt unhealthy,There's salt in it.,0.43705239580767,"Q&A_Of_August_20,_2006.txt",2023-12-06 09:54:44.793758,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"It is unhealthy to breathe plastic
+lint.",0.4412995298031676,What_Should_We_Consider_For_Health_When_Buying_A_New_Car?.txt,2023-12-06 09:54:44.793851,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"Well, that's salt.",0.44340471957502825,"Q&A_Of_May_7,_2006.txt",2023-12-06 09:54:44.793943,0.85,0.0,"(1, 1)"
+Is salt unhealthy,So it's salt?,0.4485517518675185,"Q&A_Of_August_17,_2003_(Full).txt",2023-12-06 09:54:44.794031,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"I don't want him to detoxify in an unhealthy
+way.",0.44859053650005176,Question_And_Answers.txt,2023-12-06 09:54:44.794120,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"So,
+the question to be answered is: What makes cells unhealthy?",0.45415038959638365,The_Recipe_for_Living_Without_Disease.txt,2023-12-06 09:54:44.794207,0.85,0.0,"(1, 1)"
+Is salt unhealthy,That's why the rich children were always more unhealthy.,0.4558115490429273,"Q&A_Of_September_14,_2003.txt",2023-12-06 09:54:44.794292,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"What it is is you put salt, like rock salt, just sea salt, rock salt is sea salt.",0.4558857811669278,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-12-06 09:54:44.794377,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"It’s also unhealthy to eat meat,” she said.",0.46141029121279326,We_Want_To_Live.txt,2023-12-06 09:54:44.794462,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"If it were unhealthy when full of bacteria, I would be dead.",0.46732578076471376,Is_Raw_Milk_Always_Beneficial_Even_With_Much_Bacteria?.txt,2023-12-06 09:54:44.794546,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"Safe, beneficial or
+unhealthy?",0.47029771393335806,Question_And_Answers.txt,2023-12-06 09:54:44.794629,0.85,0.0,"(1, 1)"
+Is salt unhealthy,A: Salt.,0.4708779611245582,"Q&A_Of_September_26,_2010.txt",2023-12-06 09:54:44.794716,0.85,0.0,"(1, 1)"
+Is salt unhealthy,"They do not make money unless
+you are unhealthy.",0.4918348136749823,"Q&A_Of_January_27,_2013.txt",2023-12-06 09:54:44.794801,0.85,0.0,"(1, 1)"
+Is salt unhealthy,It's salt.,0.5447174794924609,"Q&A_Of_August_17,_2003_(Full).txt",2023-12-06 09:54:44.794886,0.85,0.0,"(1, 1)"
+Is salt unhealthy,A: Salt is salt.,0.5499152753180171,"Q&A_Of_September_26,_2010.txt",2023-12-06 09:54:44.794970,0.85,0.0,"(1, 1)"
+Is salt unhealthy,All appeared unhealthy.,0.5690862505965925,Mercury_In_Fish;_Do_We_Absorb_It?.txt,2023-12-06 09:54:44.795055,0.85,0.0,"(1, 1)"
+Is salt unhealthy,Is it unhealthy to take?,0.679475463004908,Question_And_Answers.txt,2023-12-06 09:54:44.795143,0.85,0.0,"(1, 1)"
+Salt damages cells,A: And then salt – sea salt.,0.44990831058426467,"Q&A_Of_May_27,_2012.txt",2023-12-06 09:54:44.843487,0.85,0.0,"(1, 1)"
+Salt damages cells,Salt can do that.,0.4521568427949527,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:44.843625,0.85,0.0,"(1, 1)"
+Salt damages cells,Salt can do that.,0.4521568427949527,"Q&A_Of_July_10,_2011.txt",2023-12-06 09:54:44.843779,0.85,0.0,"(1, 1)"
+Salt damages cells,Salt can do it.,0.4543608214327225,"Q&A_Of_December_14,_2008.txt",2023-12-06 09:54:44.844034,0.85,0.0,"(1, 1)"
+Salt damages cells,"When your cells are damaged, you've got a problem.",0.4633324928584086,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-12-06 09:54:44.844215,0.85,0.0,"(1, 1)"
+Salt damages cells,"They do
+damage.",0.4649242190826364,"Q&A_Of_February_1,_2004.txt",2023-12-06 09:54:44.844408,0.85,0.0,"(1, 1)"
+Salt damages cells,"Dentine is a live cell, bones a live cell If it's damaged by a free radical metal, like mercury or aluminum, that cell is damaged.",0.4663992516877873,"Q&A_Of_April_17,_2005.txt",2023-12-06 09:54:44.844534,0.85,0.0,"(1, 1)"
+Salt damages cells,"The bacteria were simply doing their best to
+mitigate the damage by feeding and eliminating damaged cells or parts of
+cells, readying the body for replacement cells.",0.47208168802035466,More_Clarity_On_Food-borne_Bacterial_Contamination.txt,2023-12-06 09:54:44.844750,0.85,0.0,"(1, 1)"
+Salt damages cells,"What it is is you put salt, like rock salt, just sea salt, rock salt is sea salt.",0.4729652486082333,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-12-06 09:54:44.844990,0.85,0.0,"(1, 1)"
+Salt damages cells,"So, it only dissolves a particular cell or part of a cell or a kind of a cell, a damaged cell, an unhealthy cell.",0.479458917784949,"Q&A_Of_February_20,_2005.txt",2023-12-06 09:54:44.845154,0.85,0.0,"(1, 1)"
+Salt damages cells,That penetrates and damages the cell.,0.48973378139245194,"Q&A_Of_December_17,_2006.txt",2023-12-06 09:54:44.845263,0.85,0.0,"(1, 1)"
+Salt damages cells,But then salt causes dehydration and damage.,0.49843938534056886,"Q&A_Of_December_14,_2008.txt",2023-12-06 09:54:44.845360,0.85,0.0,"(1, 1)"
+Salt damages cells,Because it's damaging those nerve cells.,0.5030903996694118,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:44.845452,0.85,0.0,"(1, 1)"
+Salt damages cells,A: Salt.,0.516809879371732,"Q&A_Of_September_26,_2010.txt",2023-12-06 09:54:44.845541,0.85,0.0,"(1, 1)"
+Salt damages cells,It's salt.,0.5452273789125506,"Q&A_Of_August_17,_2003_(Full).txt",2023-12-06 09:54:44.845629,0.85,0.0,"(1, 1)"
+Salt damages cells,A: It's the chemicals damaging cells.,0.5597472996231019,"Q&A_Of_February_1,_2004.txt",2023-12-06 09:54:44.845715,0.85,0.0,"(1, 1)"
+Salt damages cells,A: Salt is salt.,0.5757705564166863,"Q&A_Of_September_26,_2010.txt",2023-12-06 09:54:44.845801,0.85,0.0,"(1, 1)"
+Salt damages cells,"That is carbohydrate damage, a sugar damage cell.",0.5913919935805223,"Q&A_Of_June_22,_2003.txt",2023-12-06 09:54:44.845886,0.85,0.0,"(1, 1)"
+Salt damages cells,It damages liver cells.,0.6045647986131097,Benefits_of_Raw_Eggs.txt,2023-12-06 09:54:44.845971,0.85,0.0,"(1, 1)"
+Salt damages cells,It damages skin cells.,0.6366426680903673,Question_And_Answers.txt,2023-12-06 09:54:44.846056,0.85,0.0,"(1, 1)"
+Why is salt toxic,A: Salt.,0.5030681123996918,"Q&A_Of_September_26,_2010.txt",2023-12-06 09:54:44.900948,0.85,0.0,"(1, 1)"
+Why is salt toxic,And toxic.,0.5167850165570154,"Q&A_Of_February_1,_2004.txt",2023-12-06 09:54:44.901066,0.85,0.0,"(1, 1)"
+Why is salt toxic,That's why.,0.5371057362707019,Primal_Diet_Workshop_(Part_1).txt,2023-12-06 09:54:44.901163,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why is that.,0.5371057362707019,"Q&A_Of_April_17,_2005.txt",2023-12-06 09:54:44.901253,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why is that.,0.5371057362707019,"Q&A_Of_April_6,_2008.txt",2023-12-06 09:54:44.901341,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why that is.,0.5371057362707019,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:44.901426,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why is that.,0.5371057362707019,"Q&A_Of_February_20,_2005.txt",2023-12-06 09:54:44.901509,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why is that.,0.5371057362707019,"Q&A_Of_July_24,_2005.txt",2023-12-06 09:54:44.901591,0.85,0.0,"(1, 1)"
+Why is salt toxic,"Salt
+is a toxic, dangerous thing.",0.5419698146361583,"Q&A_Of_May_23,_2010.txt",2023-12-06 09:54:44.901672,0.85,0.0,"(1, 1)"
+Why is salt toxic,It is toxic.,0.5423704448787027,Primal_Diet_Workshop_(Part_2).txt,2023-12-06 09:54:44.901753,0.85,0.0,"(1, 1)"
+Why is salt toxic,It is toxic.,0.5423704448787027,"Q&A_Of_November_17,_2000.txt",2023-12-06 09:54:44.901834,0.85,0.0,"(1, 1)"
+Why is salt toxic,It is toxic.,0.5423704448787027,Question_And_Answers.txt,2023-12-06 09:54:44.901916,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why.,0.5532787019542442,"Q&A_Of_May_24,_2009.txt",2023-12-06 09:54:44.901997,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why.,0.5532787019542442,"Q&A_Of_May_24,_2009.txt",2023-12-06 09:54:44.902077,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why.,0.5532787019542442,"Q&A_Of_September_12,_2005.txt",2023-12-06 09:54:44.902158,0.85,0.0,"(1, 1)"
+Why is salt toxic,Why.,0.5532787019542442,"Q&A_Of_September_12,_2004.txt",2023-12-06 09:54:44.902241,0.85,0.0,"(1, 1)"
+Why is salt toxic,Toxic.,0.5543335563731621,Question_And_Answers.txt,2023-12-06 09:54:44.902323,0.85,0.0,"(1, 1)"
+Why is salt toxic,It's salt.,0.5819554466829311,"Q&A_Of_August_17,_2003_(Full).txt",2023-12-06 09:54:44.902407,0.85,0.0,"(1, 1)"
+Why is salt toxic,A: Salt is salt.,0.5875085741394737,"Q&A_Of_September_26,_2010.txt",2023-12-06 09:54:44.902490,0.85,0.0,"(1, 1)"
+Why is salt toxic,[Attendee]   Why do they like having the salt and why are they okay if it has salt.,0.6067773956097293,"Q&A_Of_February_9,_2003.txt",2023-12-06 09:54:44.902572,0.85,0.0,"(1, 1)"
+What are signs of intelligence,A: Those are signs that your body is trying to get rid of plastic oil.,0.3116967681055414,"Q&A_Of_August_22,_2011.txt",2023-12-06 09:54:44.957342,0.85,0.0,"(1, 1)"
+What are signs of intelligence,Are these signs of his kidneys shutting down?,0.3124017055223453,Question_And_Answers.txt,2023-12-06 09:54:44.957470,0.85,0.0,"(1, 1)"
+What are signs of intelligence,A: The dark is a sign of liver difficulties.,0.3194039336390737,"Q&A_Of_May_30,_2010.txt",2023-12-06 09:54:44.957565,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"I think that the half-life measure is not so intelligent, but that may be a lack in my intelligence.",0.321786634709256,Question_And_Answers.txt,2023-12-06 09:54:44.957652,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"The animals that we fed raw food and kept them with their parasites within in a year, well about six months, they got rid of all of the signs, major signs of parasites.",0.3233443498340694,"Q&A_Of_February_18,_2007.txt",2023-12-06 09:54:44.957737,0.85,0.0,"(1, 1)"
+What are signs of intelligence,That's a sign that you're not digesting your proteins properly.,0.32402116125183583,"Q&A_Of_April_6,_2008.txt",2023-12-06 09:54:44.957818,0.85,0.0,"(1, 1)"
+What are signs of intelligence,That is not a sign of ill health by your body doing that.,0.3247052839219461,"Q&A_Of_September_19,_2000_(Rare).txt",2023-12-06 09:54:44.957899,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"Those signs are just signs that you're detoxifying a concentration of something, and building into the nails, not something you should even worry about, unless it's painful.",0.32528304370244226,"Q&A_Of_June_22,_2003.txt",2023-12-06 09:54:44.957979,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"There are these signs, photograph signs showing the snail with this parasite that goes here to man, and what it causes, don't drink this water.",0.345939881333804,"Q&A_Of_February_9,_2003.txt",2023-12-06 09:54:44.958060,0.85,0.0,"(1, 1)"
+What are signs of intelligence,That's a sign of great acidity in the body.,0.3543301002055492,"Q&A_Of_June_16,_2013.txt",2023-12-06 09:54:44.958141,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"Most often, we deny our bodies'
+intelligence.",0.37722938517626714,Are_There_Aggressive_Treatments_For_Cancer?.txt,2023-12-06 09:54:44.958222,0.85,0.0,"(1, 1)"
+What are signs of intelligence,A: He wouldn't have signed it.,0.39193402211346456,"Q&A_Of_November_18,_2007.txt",2023-12-06 09:54:44.958367,0.85,0.0,"(1, 1)"
+What are signs of intelligence,It’s not a good sign of health.,0.39308273979990754,"Primal_Diet_Workshop_+_Q&A_Of_June_22,_2013.txt",2023-12-06 09:54:44.958491,0.85,0.0,"(1, 1)"
+What are signs of intelligence,Not a sign of any kind of parasite.,0.39334777196413107,"Q&A_Of_November_7,_1999.txt",2023-12-06 09:54:44.958588,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"We
+can count on our bodies' intelligence.",0.4174126766694581,Are_There_Aggressive_Treatments_For_Cancer?.txt,2023-12-06 09:54:44.958676,0.85,0.0,"(1, 1)"
+What are signs of intelligence,You do not have any signs of it.,0.4452914344908033,"Q&A_Of_January_22,_2000.txt",2023-12-06 09:54:44.958760,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"You
+have the misconception that that's intelligence.",0.4481500796974936,"Q&A_Of_November_7,_1999.txt",2023-12-06 09:54:44.958844,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"He always has to use other elements of nature and to think that he's smart enough to make something a balance is absolute stupidity because their intelligence, micro intelligence, microcosmic and macrocosmic intelligence that are all partaking in the exchange of building something.",0.45716401533740997,"Q&A_Of_May_7,_2006.txt",2023-12-06 09:54:44.958926,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"Dietary patterns and intelligence
+in early and middle childhood,"" Intelligence.",0.5018770379738426,"Eating_Out,_Is_It_Safe?.txt",2023-12-06 09:54:44.959006,0.85,0.0,"(1, 1)"
+What are signs of intelligence,"Cynicism is not a sign of
+intelligence.",0.7319727317159267,"Q&A_Of_November_7,_1999.txt",2023-12-06 09:54:44.959086,0.85,0.0,"(1, 1)"
+Geniuses and diet,"Q: How do you see other diets that have similarities to your diet,
+such as the Blood-Type diet and various Paleolithic diets?",0.2677714721062511,"Interview_by_Mina_Olen,_Health_magazine_in_Finland..txt",2023-12-06 09:54:45.005524,0.85,0.0,"(1, 1)"
+Geniuses and diet,He fed rats cooked diets and raw diets.,0.2710359846663375,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.005636,0.85,0.0,"(1, 1)"
+Geniuses and diet,"And usually when the body is that
+active, the mind is that active too, so you’ve got a lot of geniuses there…
+just unable to function because of those physiological hormones, so it’s that
+easy.",0.27400769246092044,"Q&A_Of_October_14,_2012.txt",2023-12-06 09:54:45.005727,0.85,0.0,"(1, 1)"
+Geniuses and diet,On this diet.,0.2769622674925683,"Q&A_Of_April_11,_2004.txt",2023-12-06 09:54:45.005814,0.85,0.0,"(1, 1)"
+Geniuses and diet,It's just the diet.,0.27889604701745624,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:45.005897,0.85,0.0,"(1, 1)"
+Geniuses and diet,"If you're an all-raw diet, meat diet.",0.2836566731395371,"Q&A_Of_March_17,_2002.txt",2023-12-06 09:54:45.005980,0.85,0.0,"(1, 1)"
+Geniuses and diet,"And
+leave the diet.",0.2893788209402073,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.006060,0.85,0.0,"(1, 1)"
+Geniuses and diet,It is not a diet.,0.3014672170310642,"Q&A_Of_September_19,_2000_(Rare).txt",2023-12-06 09:54:45.006139,0.85,0.0,"(1, 1)"
+Geniuses and diet,From the diet.,0.3092689747547536,"Q&A_Of_January_29,_2006.txt",2023-12-06 09:54:45.006218,0.85,0.0,"(1, 1)"
+Geniuses and diet,Is it diet?,0.31065584209793623,"Q&A_Of_March_26,_2000.txt",2023-12-06 09:54:45.006296,0.85,0.0,"(1, 1)"
+Geniuses and diet,"He was emotionally completely
+retarded, but as far as inventions - he was a genius.",0.3451206035058272,"Q&A_Of_June_16,_2013.txt",2023-12-06 09:54:45.006375,0.85,0.0,"(1, 1)"
+Geniuses and diet,"My diet, not your diet.",0.3497767255213826,"Q&A_Of_September_10,_2006.txt",2023-12-06 09:54:45.006453,0.85,0.0,"(1, 1)"
+Geniuses and diet,Do the mental geniuses verge on mental illness?,0.3696141583579281,Question_And_Answers.txt,2023-12-06 09:54:45.006531,0.85,0.0,"(1, 1)"
+Geniuses and diet,diet.,0.4189965641361051,Question_And_Answers.txt,2023-12-06 09:54:45.006609,0.85,0.0,"(1, 1)"
+Geniuses and diet,"In the children
+who do not get vaccinations, you got three geniuses out of every ten.",0.4262053642978127,"Q&A_Of_February_3,_2013.txt",2023-12-06 09:54:45.006688,0.85,0.0,"(1, 1)"
+Geniuses and diet,"They do
+not want geniuses because they'll be hacking their military, the banks,
+everything would be hacked because there would be geniuses all around.",0.4693073909217923,"Q&A_Of_February_3,_2013.txt",2023-12-06 09:54:45.006766,0.85,0.0,"(1, 1)"
+Geniuses and diet,"A: The body knows how to do it; the body is a genius, yeah.",0.49570242581600804,"Q&A_Of_March_26,_2000.txt",2023-12-06 09:54:45.006845,0.85,0.0,"(1, 1)"
+Geniuses and diet,"All hyperactive children have potential genius, but unless they can utilize proteins or harness adrenaline, their genius may turn into antisocial behavior.",0.5168768347938753,We_Want_To_Live.txt,2023-12-06 09:54:45.006924,0.85,0.0,"(1, 1)"
+Geniuses and diet,"Your body is always doing the best it can and
+it’s a genius.",0.571641145490477,"Q&A_Of_January_27,_2013.txt",2023-12-06 09:54:45.007005,0.85,0.0,"(1, 1)"
+Geniuses and diet,The child is absolutely a genius.,0.6392426565932893,"Q&A_Of_December_17,_2006.txt",2023-12-06 09:54:45.007083,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,But you won't gain weight on that diet.,0.5129841942506574,"Q&A_Of_February_25,_2007.txt",2023-12-06 09:54:45.054100,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"Healthfully,
 
-Every 30 minutes.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 10:16:12.345243,0.5,0.01,"(1, 1)"
-Cleaning formula,"So, they don't have to work.",0.0,0,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-11-29 10:16:12.345355,0.5,0.01,"(1, 1)"
-Cleaning formula,"A: You can have everything in the world, but if you don't have your
-health what can you enjoy and how deeply?",0.0,0,Rae_Bradbury_Interview_2.txt,2023-11-29 10:16:12.345447,0.5,0.01,"(1, 1)"
-What to wash dishes with,With what?,0.7791968450751683,0,"Q&A_Of_August_24,_2008.txt",2023-11-29 10:16:12.377678,0.5,0.01,"(1, 1)"
-What to wash dishes with,"What to feed what, what to grow.",0.7821945636178382,0,"Q&A_Of_January_9,_2011.txt",2023-11-29 10:16:12.377790,0.5,0.01,"(1, 1)"
-What to wash dishes with,What happens with the patented crops.,0.8541601205726479,0,"Q&A_Of_April_11,_2004.txt",2023-11-29 10:16:12.377883,0.5,0.01,"(1, 1)"
-Best juicer brands,Good instincts.,1.0,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-29 10:16:12.405418,0.5,0.01,"(1, 1)"
-Best juicer brands,Pretty good.,1.0,0,"Q&A_Of_April_4,_2010.txt",2023-11-29 10:16:12.405530,0.5,0.01,"(1, 1)"
-Best juicer brands,Pretty good.,1.0,0,Primal_Diet_Workshop_(Part_3).txt,2023-11-29 10:16:12.405624,0.5,0.01,"(1, 1)"
-Best yoga poses,Good instincts.,1.0,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-29 10:16:12.433159,0.5,0.01,"(1, 1)"
-Best yoga poses,Pretty good.,1.0,0,"Q&A_Of_April_4,_2010.txt",2023-11-29 10:16:12.433274,0.5,0.01,"(1, 1)"
-Best yoga poses,Pretty good.,1.0,0,Primal_Diet_Workshop_(Part_3).txt,2023-11-29 10:16:12.433366,0.5,0.01,"(1, 1)"
-Does the lubrication formula need to be heated,Does it need to be ironed?,0.8154934237131493,0,Question_And_Answers.txt,2023-11-29 10:16:12.470951,0.5,0.01,"(1, 1)"
-Does the lubrication formula need to be heated,"The foundation needs to be level and
-solid.",0.8161633333485129,0,Hot_Tub_Therapy.txt,2023-11-29 10:16:12.471061,0.5,0.01,"(1, 1)"
-Does the lubrication formula need to be heated,Do I need to hold the rim?,0.820413401604372,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-29 10:16:12.471153,0.5,0.01,"(1, 1)"
-Are lemon and lime the same,The next are pine nuts and sunflower seeds.,0.9999999999999998,0,"Q&A_Of_March_17,_2002.txt",2023-11-29 10:16:12.508169,0.5,0.01,"(1, 1)"
-Are lemon and lime the same,And the vomiting was intense.,0.9999999999999998,0,Primal_Diet_Workshop_(Part_2).txt,2023-11-29 10:16:12.508281,0.5,0.01,"(1, 1)"
-Are lemon and lime the same,Feet and spinal cord are the main places bone spurs grow.,0.9999999999999998,0,"Q&A_Of_January_9,_2011.txt",2023-11-29 10:16:12.508374,0.5,0.01,"(1, 1)"
-Eating meat with sauces or plain,"Like meat, on an empty stomach and nothing eaten afterwards or you
-can eat it with a regular meat meal or....
-You can combine it with a normal meat meal.",0.7773277358184019,0,Benefits_of_Raw_Eggs.txt,2023-11-29 10:16:12.538693,0.5,0.01,"(1, 1)"
-Eating meat with sauces or plain,Thinly pack the area with sliced or ground red meat and cover with a sock or bandage.,0.7944065343289073,0,We_Want_To_Live.txt,2023-11-29 10:16:12.538807,0.5,0.01,"(1, 1)"
-Eating meat with sauces or plain,Example: Tartar sauce eaten with red meat.,0.7986952799637536,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:12.538901,0.5,0.01,"(1, 1)"
-Are amalgam fillings unhealthy,Everything is processed.,1.0,0,"Q&A_Of_August_20,_2006.txt",2023-11-29 10:16:12.571352,0.5,0.01,"(1, 1)"
-Are amalgam fillings unhealthy,Merck is lobbying.,1.0,0,"Q&A_Of_February_18,_2007.txt",2023-11-29 10:16:12.571466,0.5,0.01,"(1, 1)"
-Are amalgam fillings unhealthy,Mine was chemotherapy.,1.0,0,"Q&A_Of_September_26,_2010.txt",2023-11-29 10:16:12.571558,0.5,0.01,"(1, 1)"
-Should I get amalgam fillings removed,Should I force myself?,0.7554932227520231,0,Question_And_Answers.txt,2023-11-29 10:16:12.604444,0.5,0.01,"(1, 1)"
-Should I get amalgam fillings removed,VANILLA EXTRACT should be organically grown and should contain its natural alcohol.,0.7601947691900123,0,We_Want_To_Live.txt,2023-11-29 10:16:12.604561,0.5,0.01,"(1, 1)"
-Should I get amalgam fillings removed,I should be dead.,0.8224627583643663,0,"Q&A_Of_March_26,_2013.txt",2023-11-29 10:16:12.604654,0.5,0.01,"(1, 1)"
-Excessive hormones and nut formula,Consuming MMS concentrates chlorine and sodium.,1.0,0,Question_And_Answers.txt,2023-11-29 10:16:12.636286,0.5,0.01,"(1, 1)"
-Excessive hormones and nut formula,and herbalism.,1.0,0,Question_And_Answers.txt,2023-11-29 10:16:12.636400,0.5,0.01,"(1, 1)"
-Excessive hormones and nut formula,Men and women.,1.0,0,"Q&A_Of_August_22,_2011.txt",2023-11-29 10:16:12.636493,0.5,0.01,"(1, 1)"
-How to burn off excessive hormones,Dry off.,0.7113073943501523,0,"Q&A_Of_February_3,_2013.txt",2023-11-29 10:16:12.668004,0.5,0.01,"(1, 1)"
-How to burn off excessive hormones,Pour off whey.,0.7113073943501523,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:12.668114,0.5,0.01,"(1, 1)"
-How to burn off excessive hormones,Completely broken off.,0.7113073943501523,0,"Q&A_Of_June_16,_2013.txt",2023-11-29 10:16:12.668203,0.5,0.01,"(1, 1)"
-Vegetable juice recipe,Green vegetable juice.,1.0,0,"Q&A_Of_September_12,_2004.txt",2023-11-29 10:16:12.697494,0.5,0.01,"(1, 1)"
-Vegetable juice recipe,Lime juice formula.,1.0,0,"Q&A_Of_March_26,_2013.txt",2023-11-29 10:16:12.697641,0.5,0.01,"(1, 1)"
-Vegetable juice recipe,Vegetable juice.,1.0,0,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-11-29 10:16:12.697763,0.5,0.01,"(1, 1)"
-what % of each vegetable is the juice made of,CHOCOLATE is mainly made of fat and approximately 20% sugar.,0.6390115567851054,0,We_Want_To_Live.txt,2023-11-29 10:16:12.736814,0.5,0.01,"(1, 1)"
-what % of each vegetable is the juice made of,"However, the ingestion
-of raw green cabbage juice has proved to be effective toward
-healing 90% of ulcerative cases.",0.663926176404105,0,The_Recipe_for_Living_Without_Disease.txt,2023-11-29 10:16:12.736924,0.5,0.01,"(1, 1)"
-what % of each vegetable is the juice made of,5% of what they consume.,0.6657343154080816,0,"Q&A_Of_July_24,_2005.txt",2023-11-29 10:16:12.737013,0.5,0.01,"(1, 1)"
-How important is vegetable juice,And how much juice?,0.7127876958625822,0,"Q&A_Of_November_7,_1999.txt",2023-11-29 10:16:12.771128,0.5,0.01,"(1, 1)"
-How important is vegetable juice,Lemon juice is fermentation.,0.7317671540094892,0,"Q&A_Of_September_9,_2007.txt",2023-11-29 10:16:12.771240,0.5,0.01,"(1, 1)"
-How important is vegetable juice,Fermented juice is delicious.,0.7317671540094892,0,"Q&A_Of_October_14,_2012.txt",2023-11-29 10:16:12.771331,0.5,0.01,"(1, 1)"
-What does becoming acidic feel like,What do your bowel movements smell like?,0.7882858872885566,0,Benefits_of_Raw_Eggs.txt,2023-11-29 10:16:12.803283,0.5,0.01,"(1, 1)"
-What does becoming acidic feel like,A: What does radiation feel like?,0.7908453209261566,0,"Q&A_Of_September_19,_2000_(Rare).txt",2023-11-29 10:16:12.803403,0.5,0.01,"(1, 1)"
-What does becoming acidic feel like,That's what I don't like.,0.7975029238367295,0,"Q&A_Of_June_29,_2008.txt",2023-11-29 10:16:12.803496,0.5,0.01,"(1, 1)"
-Why eat cheese with honey,honey with each cheese consumption.,0.7634304734651387,0,Question_And_Answers.txt,2023-11-29 10:16:12.834993,0.5,0.01,"(1, 1)"
-Why eat cheese with honey,unless you eat honey with the cheese.,0.7913240424270047,0,Benefits_of_Raw_Eggs.txt,2023-11-29 10:16:12.835105,0.5,0.01,"(1, 1)"
-Why eat cheese with honey,Unless you eat honey with the cheese.,0.7913240424270047,0,"Q&A_Of_September_26,_2010.txt",2023-11-29 10:16:12.835196,0.5,0.01,"(1, 1)"
+Re: Weight Gain and Loss
+
+When I explain the diet to others, and the weight gain, I never know the precise reason for the weight
+gain and loss.",0.5130773899436719,Question_And_Answers.txt,2023-12-06 09:54:45.054218,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Doesn't the butter make you gain weight?,0.5139063910366578,"Q&A_Of_April_4,_2010.txt",2023-12-06 09:54:45.054313,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"A: I needed you to gain all the weight that you have gained before I was going
+to put you on.",0.5148137751191697,"Q&A_Of_March_26,_2000.txt",2023-12-06 09:54:45.054401,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"Everybody's supposed to
+gain the weight, and this is how to take it off.",0.527857874252199,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.054488,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,She is losing weight quickly.,0.5351944925808101,Question_And_Answers.txt,2023-12-06 09:54:45.054573,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Continue on the weight gain.,0.5477280174099919,"Q&A_Of_February_9,_2003.txt",2023-12-06 09:54:45.054657,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,And I would gain a lot of weight.,0.5497693395908796,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.054740,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Doesn’t help to gain weight that much.,0.5604809791255408,Benefits_of_Raw_Eggs.txt,2023-12-06 09:54:45.054822,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"It depends on how quickly you
+want to remove the weight.",0.560603521248772,"Q&A_Of_January_22,_2000.txt",2023-12-06 09:54:45.054905,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Are you able to gain weight?,0.5842528172755908,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.054987,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"Q: And gaining weight
+
+A: The high meat won't help you gain weight.",0.5903140105277205,"Q&A_Of_April_4,_2010.txt",2023-12-06 09:54:45.055071,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"When I want to quickly gain weight, I drink lots of raw milk.",0.6185514324192041,Question_And_Answers.txt,2023-12-06 09:54:45.055158,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"Q: How do you gain weight if you are very thin and never could gain weight
+before?",0.6192636293879155,"Q&A_Of_February_1,_2004.txt",2023-12-06 09:54:45.055308,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,"1999
+
+Gaining weight when it is time to gain weight?",0.620082759381823,Benefits_of_Raw_Eggs.txt,2023-12-06 09:54:45.055485,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,You'll gain weight.,0.6524661952858013,"Q&A_Of_November_27,_2005.txt",2023-12-06 09:54:45.055618,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Q: Gaining weight: when it is time to gain weight ?,0.6527505825282539,"Q&A_Of_May_21,_2000_(Rare).txt",2023-12-06 09:54:45.055718,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Cooked eggs you can gain weight quickly.,0.7130983956819971,"Q&A_Of_April_16,_2006.txt",2023-12-06 09:54:45.055810,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Gain weight.,0.7291509471867135,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.055897,0.85,0.0,"(1, 1)"
+How to gain weight quickly ,Q: How to gain weight.,0.7684971915223822,"Q&A_Of_July_10,_2011.txt",2023-12-06 09:54:45.055980,0.85,0.0,"(1, 1)"
+What is arthritis,Q: So relative to that I got a lot of itching and arthritis.,0.40266264037313804,"Q&A_Of_December_17,_2006.txt",2023-12-06 09:54:45.103806,0.85,0.0,"(1, 1)"
+What is arthritis,What's that.,0.4054122157375316,"Q&A_Of_April_6,_2008.txt",2023-12-06 09:54:45.103928,0.85,0.0,"(1, 1)"
+What is arthritis,What is that.,0.4054122157375316,"Q&A_Of_September_12,_2004.txt",2023-12-06 09:54:45.104025,0.85,0.0,"(1, 1)"
+What is arthritis,Viral or bacterial arthritis or rheumatism.,0.4094068480988761,"Q&A_Of_September_10,_2006.txt",2023-12-06 09:54:45.104115,0.85,0.0,"(1, 1)"
+What is arthritis,What was it.,0.41046842662836003,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:45.104200,0.85,0.0,"(1, 1)"
+What is arthritis,"You have the
+appearance of arthritis developing in the joints.",0.4212031455286397,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.104285,0.85,0.0,"(1, 1)"
+What is arthritis,"I had arthritis...
+
+Well it's one more stage toward that.",0.43476737483166045,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.104371,0.85,0.0,"(1, 1)"
+What is arthritis,Q: So arthritis and lupus are two different things.,0.45691549952642585,"Q&A_Of_August_22,_2011.txt",2023-12-06 09:54:45.104457,0.85,0.0,"(1, 1)"
+What is arthritis,All the joints cause arthritis and rheumatism.,0.46367591862719276,"Q&A_Of_May_30,_2010.txt",2023-12-06 09:54:45.104541,0.85,0.0,"(1, 1)"
+What is arthritis,"To be thorough, let us look at arthritis.",0.46474501964721726,Quick_Alternative_Cure_For_Arthritis;_True_Or_False?.txt,2023-12-06 09:54:45.104625,0.85,0.0,"(1, 1)"
+What is arthritis,Q: Do you see the arthritis on the iris?,0.48043233214743514,"Q&A_Of_August_22,_2011.txt",2023-12-06 09:54:45.104707,0.85,0.0,"(1, 1)"
+What is arthritis,"If you have arthritis, you would be in severe pain.",0.5107723440314654,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:45.104797,0.85,0.0,"(1, 1)"
+What is arthritis,"[Attendee]
+
+So, it's not like arthritis and stuff.",0.5192581826982987,"Q&A_Of_May_24,_2009.txt",2023-12-06 09:54:45.104880,0.85,0.0,"(1, 1)"
+What is arthritis,"[Attendee]
+
+I'm focusing on arthritis.",0.5255093198390787,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:45.104962,0.85,0.0,"(1, 1)"
+What is arthritis,"RHEUMATOID ARTHRITIS: see Rheumatism, above, and Arthritis, page 226.",0.5399524451922662,We_Want_To_Live.txt,2023-12-06 09:54:45.105045,0.85,0.0,"(1, 1)"
+What is arthritis,"She said if there is no immune disease, then what is
+arthritis?",0.5495487194744099,"Q&A_Of_August_22,_2011.txt",2023-12-06 09:54:45.105125,0.85,0.0,"(1, 1)"
+What is arthritis,It could develop into arthritis.,0.5728399218338524,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.105206,0.85,0.0,"(1, 1)"
+What is arthritis,So it is a traveling arthritis.,0.6275374046767374,"Q&A_Of_September_19,_2000_(Rare).txt",2023-12-06 09:54:45.105287,0.85,0.0,"(1, 1)"
+What is arthritis,That's what arthritis and rheumatism is.,0.6967233499407314,"Q&A_Of_May_30,_2010.txt",2023-12-06 09:54:45.105368,0.85,0.0,"(1, 1)"
+What is arthritis,That's what arthritis and rheumatism is.,0.6967233499407314,"Q&A_Of_September_10,_2006.txt",2023-12-06 09:54:45.105448,0.85,0.0,"(1, 1)"
+What is arthritis caused by,Q: Do you see the arthritis on the iris?,0.39124225206616975,"Q&A_Of_August_22,_2011.txt",2023-12-06 09:54:45.154683,0.85,0.0,"(1, 1)"
+What is arthritis caused by,So what causes that?,0.40164134681722724,"Q&A_Of_December_14,_2008.txt",2023-12-06 09:54:45.154801,0.85,0.0,"(1, 1)"
+What is arthritis caused by,That's what's causing the problem.,0.4029748933882181,"Q&A_Of_June_22,_2003.txt",2023-12-06 09:54:45.154900,0.85,0.0,"(1, 1)"
+What is arthritis caused by,"If you have arthritis, you would be in severe pain.",0.41594977856457294,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:45.154993,0.85,0.0,"(1, 1)"
+What is arthritis caused by,"[Attendee]
+
+So, it's not like arthritis and stuff.",0.4228602598301493,"Q&A_Of_May_24,_2009.txt",2023-12-06 09:54:45.155085,0.85,0.0,"(1, 1)"
+What is arthritis caused by,What is causing this?,0.425058921290567,Question_And_Answers.txt,2023-12-06 09:54:45.155175,0.85,0.0,"(1, 1)"
+What is arthritis caused by,"[Attendee]
+
+I'm focusing on arthritis.",0.4279509017567687,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:45.155261,0.85,0.0,"(1, 1)"
+What is arthritis caused by,"The uric acid and the lipid oxides that
+form from the cooked meat that mainly cause that kind of storage and problem in
+the joints, rheumatoid arthritis or just arthritis, rheumatitis, are caused by
+that compound, and it needs to be secreted.",0.4340276969988684,"Q&A_Of_November_7,_1999.txt",2023-12-06 09:54:45.155342,0.85,0.0,"(1, 1)"
+What is arthritis caused by,What causes that?,0.43915021148034494,Benefits_of_Raw_Eggs.txt,2023-12-06 09:54:45.155426,0.85,0.0,"(1, 1)"
+What is arthritis caused by,"RHEUMATOID ARTHRITIS: see Rheumatism, above, and Arthritis, page 226.",0.439712726496576,We_Want_To_Live.txt,2023-12-06 09:54:45.155508,0.85,0.0,"(1, 1)"
+What is arthritis caused by,"She said if there is no immune disease, then what is
+arthritis?",0.447527496049676,"Q&A_Of_August_22,_2011.txt",2023-12-06 09:54:45.155586,0.85,0.0,"(1, 1)"
+What is arthritis caused by,It's like causing gout in some people and causing arthritis and rheumatism in others.,0.4637080918773592,"Q&A_Of_May_7,_2006.txt",2023-12-06 09:54:45.155665,0.85,0.0,"(1, 1)"
+What is arthritis caused by,It could develop into arthritis.,0.46649479249224907,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.155743,0.85,0.0,"(1, 1)"
+What is arthritis caused by,"Ninety-percent of arthritis
+is caused by leaky gut, not bacteria.",0.4830345966371157,Study_Of_Thyroid_Cancer.txt,2023-12-06 09:54:45.155822,0.85,0.0,"(1, 1)"
+What is arthritis caused by,What causes that.,0.48897755390683106,"Q&A_Of_September_10,_2006.txt",2023-12-06 09:54:45.155900,0.85,0.0,"(1, 1)"
+What is arthritis caused by,All the joints cause arthritis and rheumatism.,0.49381690862273764,"Q&A_Of_May_30,_2010.txt",2023-12-06 09:54:45.155978,0.85,0.0,"(1, 1)"
+What is arthritis caused by,So it is a traveling arthritis.,0.5110379361107219,"Q&A_Of_September_19,_2000_(Rare).txt",2023-12-06 09:54:45.156056,0.85,0.0,"(1, 1)"
+What is arthritis caused by,That's what arthritis and rheumatism is.,0.5673798249162092,"Q&A_Of_May_30,_2010.txt",2023-12-06 09:54:45.156134,0.85,0.0,"(1, 1)"
+What is arthritis caused by,That's what arthritis and rheumatism is.,0.5673798249162092,"Q&A_Of_September_10,_2006.txt",2023-12-06 09:54:45.156212,0.85,0.0,"(1, 1)"
+What is arthritis caused by,Arthritis is usually caused by volatile toxins that cause decay in the joints.,0.5746886589064498,We_Want_To_Live.txt,2023-12-06 09:54:45.156290,0.85,0.0,"(1, 1)"
+What does high meat do,"I've got people who only do high meat,
+only do high eggs.",0.5687316824043182,"Q&A_Of_May_26,_2013.txt",2023-12-06 09:54:45.203290,0.85,0.0,"(1, 1)"
+What does high meat do,What is it and what do I do?,0.5944439588320161,Question_And_Answers.txt,2023-12-06 09:54:45.203402,0.85,0.0,"(1, 1)"
+What does high meat do,And high meats?,0.6026690187356811,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.203495,0.85,0.0,"(1, 1)"
+What does high meat do,And what does it do?,0.6061800834368907,"Q&A_Of_August_22,_2011.txt",2023-12-06 09:54:45.203581,0.85,0.0,"(1, 1)"
+What does high meat do,Or high meat.,0.6065942583656065,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.203666,0.85,0.0,"(1, 1)"
+What does high meat do,What do they do?,0.60837024113788,Benefits_of_Raw_Eggs.txt,2023-12-06 09:54:45.203749,0.85,0.0,"(1, 1)"
+What does high meat do,What do they do?,0.60837024113788,"Primal_Diet_Workshop_+_Q&A_Of_June_22,_2013.txt",2023-12-06 09:54:45.203831,0.85,0.0,"(1, 1)"
+What does high meat do,What do they do?,0.60837024113788,Primal_Diet_Workshop_(Part_1).txt,2023-12-06 09:54:45.203912,0.85,0.0,"(1, 1)"
+What does high meat do,"So, what did I do.",0.6092740538708561,"Q&A_Of_November_14,_2004.txt",2023-12-06 09:54:45.203993,0.85,0.0,"(1, 1)"
+What does high meat do,What do you do?,0.6231139188871404,"Q&A_Of_September_9,_2007.txt",2023-12-06 09:54:45.204075,0.85,0.0,"(1, 1)"
+What does high meat do,"That's what happens when you eat the high meats, high bacteria meats.",0.62412358555293,"Q&A_Of_April_14,_2002.txt",2023-12-06 09:54:45.204157,0.85,0.0,"(1, 1)"
+What does high meat do,What do I do?,0.6256086140155334,Question_And_Answers.txt,2023-12-06 09:54:45.204246,0.85,0.0,"(1, 1)"
+What does high meat do,What do I do?,0.6256086140155334,"Q&A_Of_July_10,_2011.txt",2023-12-06 09:54:45.204329,0.85,0.0,"(1, 1)"
+What does high meat do,What do I do?,0.6256086140155334,Question_And_Answers.txt,2023-12-06 09:54:45.204410,0.85,0.0,"(1, 1)"
+What does high meat do,high meat?,0.6267853497734528,"Q&A_Of_November_18,_2007.txt",2023-12-06 09:54:45.204490,0.85,0.0,"(1, 1)"
+What does high meat do,"That's why when you eat high meat...does everybody know what
+high meat is?",0.64061819884989,"Q&A_Of_September_9,_2007.txt",2023-12-06 09:54:45.204570,0.85,0.0,"(1, 1)"
+What does high meat do,So that's what high meat can do for you!,0.642604764693321,"Q&A_Of_April_4,_2010.txt",2023-12-06 09:54:45.204649,0.85,0.0,"(1, 1)"
+What does high meat do,What did they do.,0.6595311363876448,"Q&A_Of_July_24,_2005.txt",2023-12-06 09:54:45.204729,0.85,0.0,"(1, 1)"
+What does high meat do,What did they do.,0.6595311363876448,"Q&A_Of_September_14,_2003.txt",2023-12-06 09:54:45.204809,0.85,0.0,"(1, 1)"
+What does high meat do,"That's why when you eat high meat, does everybody know what high meat is.",0.6721937327822763,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-12-06 09:54:45.204888,0.85,0.0,"(1, 1)"
+Why eat high meat,"I have several people that only eat high meat and won’t eat
+fresh meat.",0.5379736537063597,"Q&A_Of_May_20,_2012.txt",2023-12-06 09:54:45.248819,0.85,0.0,"(1, 1)"
+Why eat high meat,"Okay, so high meat and high eggs.",0.5443433210431075,"Q&A_Of_March_18,_2012.txt",2023-12-06 09:54:45.248939,0.85,0.0,"(1, 1)"
+Why eat high meat,"I have
+people that only eat high meat and high eggs and don’t eat anything fresh.",0.5467777611503106,"Q&A_Of_March_26,_2013.txt",2023-12-06 09:54:45.249035,0.85,0.0,"(1, 1)"
+Why eat high meat,"That's why when people eat the high meat, they get silly.",0.5807621602831395,"Q&A_Of_August_17,_2003.txt",2023-12-06 09:54:45.249247,0.85,0.0,"(1, 1)"
+Why eat high meat,"That's why when people eat the high meat, they get silly.",0.5807621602831395,"Q&A_Of_August_17,_2003_(Full).txt",2023-12-06 09:54:45.249429,0.85,0.0,"(1, 1)"
+Why eat high meat,Why.,0.581393714480199,"Q&A_Of_May_24,_2009.txt",2023-12-06 09:54:45.249548,0.85,0.0,"(1, 1)"
+Why eat high meat,Why.,0.581393714480199,"Q&A_Of_May_24,_2009.txt",2023-12-06 09:54:45.249649,0.85,0.0,"(1, 1)"
+Why eat high meat,Why.,0.581393714480199,"Q&A_Of_September_12,_2004.txt",2023-12-06 09:54:45.249737,0.85,0.0,"(1, 1)"
+Why eat high meat,Why.,0.581393714480199,"Q&A_Of_September_12,_2005.txt",2023-12-06 09:54:45.249820,0.85,0.0,"(1, 1)"
+Why eat high meat,"You can eat meat after eating high meat or
+eat it by itself.",0.5837689533200017,Question_And_Answers.txt,2023-12-06 09:54:45.249945,0.85,0.0,"(1, 1)"
+Why eat high meat,Would eating high meat help?,0.5904218584203411,Question_And_Answers.txt,2023-12-06 09:54:45.250075,0.85,0.0,"(1, 1)"
+Why eat high meat,"He only eats high
+meat.",0.6177069666546081,"Q&A_Of_September_9,_2007.txt",2023-12-06 09:54:45.250172,0.85,0.0,"(1, 1)"
+Why eat high meat,And high meats?,0.6209048595241926,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.250260,0.85,0.0,"(1, 1)"
+Why eat high meat,Or high meat.,0.6249488708890553,"Primal_Diet_Workshop_+_Q&A_Of_May_6,_2000.txt",2023-12-06 09:54:45.250342,0.85,0.0,"(1, 1)"
+Why eat high meat,"That's what happens when you eat the high meats, high bacteria meats.",0.630040859402177,"Q&A_Of_April_14,_2002.txt",2023-12-06 09:54:45.250421,0.85,0.0,"(1, 1)"
+Why eat high meat,"That’s why high meat
+and eggs work.",0.634446297049797,"Q&A_Of_September_11,_2011.txt",2023-12-06 09:54:45.250501,0.85,0.0,"(1, 1)"
+Why eat high meat,That’s why high meat and eggs work.,0.6423477425633333,Benefits_of_Raw_Eggs.txt,2023-12-06 09:54:45.250579,0.85,0.0,"(1, 1)"
+Why eat high meat,high meat?,0.6457509137757617,"Q&A_Of_November_18,_2007.txt",2023-12-06 09:54:45.250658,0.85,0.0,"(1, 1)"
+Why eat high meat,"That's why when you eat high meat...does everybody know what
+high meat is?",0.7201660595450159,"Q&A_Of_September_9,_2007.txt",2023-12-06 09:54:45.250736,0.85,0.0,"(1, 1)"
+Why eat high meat,"That's why when you eat high meat, does everybody know what high meat is.",0.7556624408388058,"Q&A_Of_June_10,_2007_&_September_9,_2007.txt",2023-12-06 09:54:45.250814,0.85,0.0,"(1, 1)"
